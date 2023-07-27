@@ -3,6 +3,6 @@
 
 
  
- Hyperledger Fabric
+ Hyperledger Fabric.
  
   
